@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<MusicList type="music">
+    <heading>My Playlist!</heading>
+    <Music>
+        <Artist>Artist: The Weeknd</Artist>
+        <Title>Title: Blinding Lights</Title>
+        <Genre>Genre: Synthwave</Genre>
+        <YearReleased>Year Released: 2020</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Diamond Platnumz</Artist>
+        <Title>Title: Iyo</Title>
+        <Genre>Genre: Dance</Genre>
+        <YearReleased>Year Released: 2021</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Wizkid, Tems</Artist>
+        <Title>Title: Essence</Title>
+        <Genre>Genre: RnB, Reggae</Genre>
+        <YearReleased>Year Released: 2020</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Justin Beiber</Artist>
+        <Title>Title: Hold On</Title>
+        <Genre>Genre: Pop</Genre>
+        <YearReleased>Year Released: 2021</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Post Malone</Artist>
+        <Title>Title: Circles</Title>
+        <Genre>Genre: Pop, Hiphop</Genre>
+        <YearReleased>Year Released: 2019</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Lil NasX</Artist>
+        <Title>Title: Industry Baby</Title>
+        <Genre>Genre: Pop, Hiphop</Genre>
+        <YearReleased>Year Released: 2021</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Meghan Stallion</Artist>
+        <Title>Title: Thot Shit</Title>
+        <Genre>Genre: Rap</Genre>
+        <YearReleased>Year Released: 2021</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Ariana Grande</Artist>
+        <Title>Title: Positions</Title>
+        <Genre>Genre: Pop</Genre>
+        <YearReleased>Year Released: 2020</YearReleased>
+    </Music>
+
+    <Music>
+        <Artist>Artist: Burna Boy</Artist>
+        <Title>Title: Kilometre</Title>
+        <Genre>Genre: Hiphop, Dancehall</Genre>
+        <YearReleased>Year Released: 2021</YearReleased>
+    </Music>
+    
+    <Music>
+        <Artist>Artist: Doja Cat</Artist>
+        <Title>Title: Woman</Title>
+        <Genre>Genre: Pop</Genre>
+        <YearReleased>Year Released: 2021</YearReleased>
+    </Music>
+</MusicList>
