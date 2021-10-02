@@ -1,0 +1,27 @@
+MusicList{
+    color: #000000;
+     background-color : rgb(248, 154, 32);
+     width: 100%;
+}
+
+heading {
+    font-weight: bold;
+    color: rgb(23, 240, 23);
+    font-size : 40px;
+}
+
+heading, Artist, Title, Genre, YearReleased{
+    display : block;
+}
+
+Artist {
+    font-size : 25px;
+    font-weight : bold;
+}
+
+Music{
+    margin:10px 10px 10px 10px; 
+    padding:10px; 
+    
+}
+
